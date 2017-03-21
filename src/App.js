@@ -87,7 +87,7 @@ render() {
         <Navbar fluid collapseOnSelect>
           <Navbar.Header>
             <Navbar.Brand>
-              <IndexLink to="/">Scratch</IndexLink>
+              <IndexLink to="/">Shelter Conference of Champions</IndexLink>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>
